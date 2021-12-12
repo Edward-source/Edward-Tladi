@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Edward-source
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Dev (ML, Computer vision, Web Dev, Electronics, Robotics)
+- 🌱 I’m currently learning a Junior Python Developer
+- 💞️ I’m looking to collaborate on Python and C++ Projects
+- 📫 How to reach me (Throgh Github for now)
 
-<!---
-Edward-source/Edward-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
